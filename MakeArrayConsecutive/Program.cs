@@ -11,8 +11,7 @@ namespace MakeArrayConsecutive
         /// of additional statues needed.
         /// </summary>
         static void Main(string[] args)
-        {           
-            
+        {            
             int[] statues = new int[] { 3, 0 };
             int t;
 
